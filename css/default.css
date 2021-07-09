@@ -51,7 +51,7 @@ h1, h2, h3, h4, h5, h6
     position: absolute;
     width: 300px;
     height: 100px;
-    background: url(../Image/Logo.png);
+    background: url(../image/Logo.png);
 }
 
 #nav
@@ -114,7 +114,7 @@ h1, h2, h3, h4, h5, h6
     top: 120px;
     height: 600px;
     width: 1000px;
-    background: url( ../Image/picshow_1000x600.png);
+    background: url( ../image/picshow_1000x600.png);
 }
 
 .pic_show_old
@@ -124,7 +124,7 @@ h1, h2, h3, h4, h5, h6
     top: 120px;
     height: 300px;
     width: 1000px;
-    background: url( ../Image/picshow_1000x600.png);
+    background: url( ../image/picshow_1000x600.png);
 }
 
 .head_in_pic
@@ -134,7 +134,7 @@ h1, h2, h3, h4, h5, h6
     left: 25px;
     width: 200px;
     height: 200px;
-    background: url(../Image/head.png)
+    background: url(../image/head.png)
 }
 
 .text_in_pic
